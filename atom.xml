@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Егор Городов]]></title>
+  <link href="http://Olefine.github.io/atom.xml" rel="self"/>
+  <link href="http://Olefine.github.io/"/>
+  <updated>2014-01-31T10:54:07+04:00</updated>
+  <id>http://Olefine.github.io/</id>
+  <author>
+    <name><![CDATA[Егор Городов]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
